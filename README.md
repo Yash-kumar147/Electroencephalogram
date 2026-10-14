@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 
@@ -22,3 +23,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | . | . | . | . | .
 2 | . | . | . | . | .
+=======
+# Electroencephalogram_-EEG-_Alpha_Rhythm_Separation_via_Wavelet_Transforms
+contributor yash kumar
+>>>>>>> 102d6fb3e3836439b39427b4aa8eb8cd571d474c
