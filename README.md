@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Introduction
 
 
@@ -22,4 +21,3 @@ Fill a brief description of this experiment here
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Yash kumar |Student|Information technolgy |REC banda| yashkumar6469@gmail.com
->>>>>>>
