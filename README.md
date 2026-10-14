@@ -2,28 +2,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Mini project
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual lab
+<b> Experiment|     <b> Electroencephalogram (EEG) Alpha Rhythm Separation via Wavelet Transforms
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer |Yash kumar <b> 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute| REC banda<b>  
+<b> Email id| yashkumar6469@gmail.com    <b>  
+<b>Department | Information technology 
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
-=======
-# Electroencephalogram_-EEG-_Alpha_Rhythm_Separation_via_Wavelet_Transforms
-contributor yash kumar
->>>>>>> 102d6fb3e3836439b39427b4aa8eb8cd571d474c
+1 | Yash kumar |Student|Information technolgy |REC banda| yashkumar6469@gmail.com
+>>>>>>>
