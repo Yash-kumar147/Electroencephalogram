@@ -4,7 +4,7 @@
 <b>Discipline | <b>Mini project
 :--|:--|
 <b> Lab | <b> Virtual lab
-<b> Experiment|     <b> Electroencephalogram (EEG) Alpha Rhythm Separation via Wavelet Transforms
+<b> Experiment|<b> Electroencephalogram (EEG) Alpha Rhythm Separation via Wavelet Transforms
 
 ### About the Experiment 
 
