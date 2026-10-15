@@ -1,6 +1,4 @@
-## Introduction
-## This is dev branch 
-
+## Introduction 
 <b>Discipline | <b>Mini project
 :--|:--|
 <b> Lab | <b> Virtual lab
